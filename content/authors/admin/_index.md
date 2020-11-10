@@ -55,9 +55,9 @@ social:
 # - icon: cv
  #  icon_pack: ai
   # link: files/CV_HK_Nov_2020.pdf
- - icon: github
-   icon_pack: fab
-   link: https://github.com/hyunkyungclairekim
+# - icon: github
+ #  icon_pack: fab
+  # link: https://github.com/hyunkyungclairekim
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
