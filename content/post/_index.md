@@ -1,6 +1,5 @@
 ---
 title: Posts
-active: false
 
 # View.
 #   1 = List
