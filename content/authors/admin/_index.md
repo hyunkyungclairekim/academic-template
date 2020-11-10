@@ -11,13 +11,13 @@ role: Bioinformatics Specialist
 # Organizations/Affiliations
 organizations:
 - name: Massachusetts General Hospital
-  url: ""
+  url: "https://www.massgeneral.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests focus on understanding genetic mechanisms of complex diseases using computational approaches
 
 interests:
-- Precision Medicine
+- Type 2 Diabetes
 - Genetics of Complex Diseases
 - Computational Approaches for Genomic Analysis
 
