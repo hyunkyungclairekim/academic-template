@@ -13,7 +13,7 @@ doi: ""
 # image: "Movie Recommender System_image.PNG"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-11-11T00:00:00Z"
+publishDate: "2020-11-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,7 +32,7 @@ abstract: Existing movie recommender systems generally use rating data of other 
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 - name: Custom Link
