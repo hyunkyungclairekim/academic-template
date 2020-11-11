@@ -12,5 +12,5 @@ view: 4
 header: "Movie Recommendation Method Using Score Normalization
 Based on User Rating Tendency"
 caption: "https://www.semanticscholar.org/paper/Movie-Recommendation-Method-Using-Score-Based-on-Kim-Kim/adce48f7baa15535b0c280295dd4cd0777090f1a?utm_source=email"
-image: "Movie Recommender System_image.PNG"
+image: "static/media/Movie Recommender System_image.PNG"
 ---
