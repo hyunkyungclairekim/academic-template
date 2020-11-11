@@ -27,6 +27,7 @@ date_format = "Jan 2006"
   description = """Responsibilities include:
   * Developed and coordinated a high-throughput genetic variant processing pipeline in Perl and R and identified shared biological pathways
   among cardiometabolic diseases from associations between variants and phenotypes based on a soft clustering method
+  * Presented key findings of Type 2 Diabetes genetic clustering at *American Diabetes Association* and *International Genetic Epidemiology Society* 
 """
 
 [[experience]]
@@ -69,7 +70,6 @@ date_format = "Jan 2006"
   * Performed literature review of current text mining techniques for inferring hidden relationships from biological literature
   * Developed a novel movie recommender system in Java that applies rating tendencies of users by normalizing scores using users’ past rating
   history
-  * Presented key findings of movie recommender system at Proceedings of Korea Computer Congress and published a manuscript in Journal of
-  Database Research in Korea
+  * Presented key findings of movie recommender system at *Proceedings of Korea Computer Congress* and published a manuscript in *Journal of Database Research* in Korea
   """
 +++
