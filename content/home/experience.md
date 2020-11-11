@@ -25,8 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = ""
   description = """Responsibilities include:
-  * Developed and coordinated a high-throughput genetic variant processing pipeline in Perl and R and identified shared biological pathways
-  among cardiometabolic diseases from associations between variants and phenotypes based on a soft clustering method
+  * Developed and coordinated a high-throughput genetic variant processing pipeline in Perl and R and identified shared biological pathways among cardiometabolic diseases from associations between variants and phenotypes based on a soft clustering method
   * Presented key findings of Type 2 Diabetes genetic clustering at *American Diabetes Association* and *International Genetic Epidemiology Society* 
 """
 
