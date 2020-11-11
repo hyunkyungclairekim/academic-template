@@ -7,11 +7,6 @@ authors:
 date: "2016-08-01T00:00:00Z"
 doi: ""
 
-  # header: Movie Recommendation Method Using Score Normalization Based on User Rating Tendency
-# caption: "Movie Recommendation Method Using Score Normalization Based on User Rating Tendency"
-# url: "https://www.semanticscholar.org/paper/Movie-Recommendation-Method-Using-Score-Based-on-Kim-Kim/adce48f7baa15535b0c280295dd4cd0777090f1a?utm_source=email"
-# image: "Movie Recommender System_image.PNG"
-
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-11-10T00:00:00Z"
 
@@ -22,7 +17,7 @@ publishDate: "2020-11-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Database Research*
+publication: *Journal of Database Research*
 # publication_short: In *STC*
 
 abstract: Existing movie recommender systems generally use rating data of other users to predict the rating of target user. However, it is hardly possible to guarantee the objectivity of rating data since the rating tendency of individual user is not considered. In this paper we propose a new recommendation method which took into account rating tendency of each individual user using score normalization based on rating difference between items. We have found many users have biased rating tendency and their rating data was affected. So we have normalized those rating data to get better prediction results. The results of experiments indicate that the proposed system has relatively improved performance compared to the previous recommender system in terms of prediction accuracy. Consequently, the proposed system is expected to enable improved movie recommendation for each individual by weighing rating tendency using score normalization.
@@ -35,7 +30,7 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: Link
   url: https://www.semanticscholar.org/paper/Movie-Recommendation-Method-Using-Score-Based-on-Kim-Kim/adce48f7baa15535b0c280295dd4cd0777090f1a?utm_source=email
 url_pdf: http://delab.yonsei.ac.kr/files/paper/16-0020-0031.pdf
 # url_code: '#'
@@ -49,7 +44,7 @@ url_pdf: http://delab.yonsei.ac.kr/files/paper/16-0020-0031.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
