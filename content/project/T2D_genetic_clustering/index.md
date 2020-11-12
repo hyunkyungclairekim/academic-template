@@ -11,15 +11,15 @@ date: "2020-06-1T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Beta-cell1 cluster identifed by clustering analysis
+  caption: Beta-cell1 cluster identified by clustering analysis
   focal_point: Smart
 
 links:
 # - icon: twitter
  # icon_pack: fab
  # name: Follow
- # url: https://twitter.com/georgecushen
-url_code: "https://diabetes.diabetesjournals.org/content/69/Supplement_1/1644-P"
+url: https://diabetes.diabetesjournals.org/content/69/Supplement_1/1644-P
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
