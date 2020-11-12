@@ -22,7 +22,7 @@ links:
  # icon_pack: fab
  # name: Follow
 - name: doi
-  url: https://diabetes.diabetesjournals.org/content/69/Supplement_1/1644-P
+  url: "https://diabetes.diabetesjournals.org/content/69/Supplement_1/1644-P"
 url_code: ""
 url_pdf: ""
 url_slides: ""
