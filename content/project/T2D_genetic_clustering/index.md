@@ -7,8 +7,6 @@ tags:
 - Variant trait association
 date: "2020-06-1T00:00:00Z"
 
-
-
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
