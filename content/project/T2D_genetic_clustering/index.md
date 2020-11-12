@@ -13,12 +13,14 @@ external_link: ""
 image:
   caption: Beta-cell1 cluster identified by clustering analysis
   focal_point: Smart
+  preview_only: true
 
 links:
 # - icon: twitter
  # icon_pack: fab
  # name: Follow
-url: https://diabetes.diabetesjournals.org/content/69/Supplement_1/1644-P
+- name: doi
+  url: https://diabetes.diabetesjournals.org/content/69/Supplement_1/1644-P
 url_code: ""
 url_pdf: ""
 url_slides: ""
