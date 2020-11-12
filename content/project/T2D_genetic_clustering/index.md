@@ -36,7 +36,7 @@ url_video: ""
 slides: example
 ---
 
-# Abstract
+## Abstract
 </br>
 
 Improved understanding of disease-causing pathways for type 2 diabetes (T2D) may lead to novel therapeutic targets and individualized treatment. Rapid expansion in the number of T2D genetic loci over the past few years can be leveraged to identify pathways via cluster analysis.
