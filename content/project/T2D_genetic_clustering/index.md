@@ -1,22 +1,24 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Genetic Clustering of Type 2 Diabetes
+summary: Inferring genetic pathways of Type 2 Diabetes using a soft clustering approach 
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Type 2 Diabetes
+- Soft clustering
+- Variant trait association
+date: "2020-06-1T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://diabetes.diabetesjournals.org/content/69/Supplement_1/1644-P"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Beta-cell1 cluster identifed by clustering analysis
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# - icon: twitter
+ # icon_pack: fab
+ # name: Follow
+ # url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,12 +32,13 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+# Abstract
+</br>
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Improved understanding of disease-causing pathways for type 2 diabetes (T2D) may lead to novel therapeutic targets and individualized treatment. Rapid expansion in the number of T2D genetic loci over the past few years can be leveraged to identify pathways via cluster analysis.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+We developed an automated pipeline to enable clustering of T2D genetic loci starting with genome-wide association study (GWAS) summary statistics from 6 European T2D studies. The pipeline 1) extracts variants reaching genome-wide significance, 2) replaces multi-allelic, ambiguous (A/T, C/G), or low-trait count SNPs with appropriate proxies, and 3) filters for independent signals using r2=0. Traits in the T2D Knowledge Portal with summary GWAS data in European populations were included if they met a minimum Bonferroni p-value across the selected variants. This pipeline generated a matrix of associations for 259 independent T2D variants and 32 traits to which we applied Bayesian Non-negative Matrix Factorization (bNMF) clustering.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+We identified 6 robust clusters of T2D loci, 5 of which overlapped with a previously published analysis of 94 loci. Three clusters indicated variant-trait associations related to insulin deficiency, while the other three clusters displayed insulin resistance-related features including: obesity, lipodystrophy, and liver-lipid metabolism. The new cluster identified in this analysis is related to beta cell function. Increased polygenic scores for clusters were associated with distinct clinical outcomes in GWAS, including coronary artery disease (UK BioBank CARDIoGRAM), ischemic stroke (MEGASTROKE), chronic kidney disease (CKDGen). Clusters also displayed tissue-specific epigenomic enrichment.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Our approach expands upon previous clustering work of T2D loci and allows for efficient updating as additional GWAS results become available. This method can also be readily applied to other diseases beyond T2D to identify key pathways.
