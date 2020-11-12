@@ -88,11 +88,6 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-<form action="https://formspree.io/f/xbjpkgog" method="POST">
-  <input type="text" name="name">
-  <input type="email" name="_replyto">
-  <input type="submit" value="Send">
-</form>
 email = "hktimetobloom@gmail.com"
 phone = ""
 
