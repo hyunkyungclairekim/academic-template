@@ -7,6 +7,9 @@ tags:
 - Variant trait association
 date: "2020-06-1T00:00:00Z"
 
+{{< figure src="T2D_genetic_clustering_9clusters.png" title="9 Clusters of T2D loci and related traits" >}}
+
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
