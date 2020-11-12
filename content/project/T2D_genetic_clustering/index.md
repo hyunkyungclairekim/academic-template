@@ -15,8 +15,7 @@ image:
   focal_point: Smart
   preview_only: true
 
-{{< figure library="true" src="T2D_genetic_clustering_9clusters.png" title="9 Clusters of T2D loci and related traits" >}}
-
+![](T2D_genetic_clustering_9clusters.png)
 
 links:
 # - icon: twitter
