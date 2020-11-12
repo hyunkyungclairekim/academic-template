@@ -15,7 +15,7 @@ external_link: ""
 image:
   caption: Beta-cell1 cluster identified by clustering analysis
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 
 
 links:
