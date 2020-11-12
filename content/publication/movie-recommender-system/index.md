@@ -26,7 +26,7 @@ abstract: Existing movie recommender systems generally use rating data of other 
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+# - Source Themes
 featured: true
 
 links:
@@ -44,7 +44,7 @@ url_pdf: http://delab.yonsei.ac.kr/files/paper/16-0020-0031.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Example of a distribution of user ratings before and after score normalization'
   focal_point: ""
   preview_only: false
 
