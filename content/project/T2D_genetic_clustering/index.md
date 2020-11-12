@@ -8,7 +8,7 @@ tags:
 date: "2020-06-1T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://diabetes.diabetesjournals.org/content/69/Supplement_1/1644-P"
+external_link: ""
 
 image:
   caption: Beta-cell1 cluster identifed by clustering analysis
@@ -19,7 +19,7 @@ links:
  # icon_pack: fab
  # name: Follow
  # url: https://twitter.com/georgecushen
-url_code: ""
+url_code: "https://diabetes.diabetesjournals.org/content/69/Supplement_1/1644-P"
 url_pdf: ""
 url_slides: ""
 url_video: ""
