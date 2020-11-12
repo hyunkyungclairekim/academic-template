@@ -33,7 +33,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
 # {{< figure src="T2D_genetic_clustering_9clusters.png" title="9 Clusters of T2D loci and related traits" >}}
 
 ## Abstract
