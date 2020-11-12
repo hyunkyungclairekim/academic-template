@@ -34,7 +34,7 @@ slides: example
 # {{< figure src="T2D_genetic_clustering_9clusters.png" title="9 Clusters of T2D loci and related traits" >}}
 
 ## Abstract
-
+</br>
 Improved understanding of disease-causing pathways for type 2 diabetes (T2D) may lead to novel therapeutic targets and individualized treatment. Rapid expansion in the number of T2D genetic loci over the past few years can be leveraged to identify pathways via cluster analysis.
 
 We developed an automated pipeline to enable clustering of T2D genetic loci starting with genome-wide association study (GWAS) summary statistics from 6 European T2D studies. The pipeline 1) extracts variants reaching genome-wide significance, 2) replaces multi-allelic, ambiguous (A/T, C/G), or low-trait count SNPs with appropriate proxies, and 3) filters for independent signals using r2=0. Traits in the T2D Knowledge Portal with summary GWAS data in European populations were included if they met a minimum Bonferroni p-value across the selected variants. This pipeline generated a matrix of associations for 259 independent T2D variants and 32 traits to which we applied Bayesian Non-negative Matrix Factorization (bNMF) clustering.
