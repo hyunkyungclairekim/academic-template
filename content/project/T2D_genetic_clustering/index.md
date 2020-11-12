@@ -19,7 +19,6 @@ image:
   preview_only: true
 
 
-
 links:
 - name: Link
   url: https://diabetes.diabetesjournals.org/content/69/Supplement_1/1644-P
@@ -36,9 +35,11 @@ url_video: ""
 slides: example
 ---
 
-![](https://github.com/hyunkyungclairekim/academic-template/content/project/T2D_genetic_clustering/T2D_genetic_clustering_9clusters.png?raw=true)
 
 ## Abstract
+
+![](https://github.com/hyunkyungclairekim/academic-template/content/project/T2D_genetic_clustering/T2D_genetic_clustering_9clusters.png?raw=true)
+
 </br>
 
 Improved understanding of disease-causing pathways for type 2 diabetes (T2D) may lead to novel therapeutic targets and individualized treatment. Rapid expansion in the number of T2D genetic loci over the past few years can be leveraged to identify pathways via cluster analysis.
