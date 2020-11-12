@@ -11,7 +11,7 @@ date: "2019-05-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Different modules detected between female and male in head & neck cancer case networks
+  caption: Different modules detected comparing female and male in head & neck cancer case networks
   focal_point: Smart
 
 links:
