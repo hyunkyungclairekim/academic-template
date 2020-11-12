@@ -20,7 +20,6 @@ publication_types: ["2"]
 publication: In *Journal of Database Research*
 # publication_short: In *STC*
 
-</br>
 
 abstract: Existing movie recommender systems generally use rating data of other users to predict the rating of target user. However, it is hardly possible to guarantee the objectivity of rating data since the rating tendency of individual user is not considered. In this paper we propose a new recommendation method which took into account rating tendency of each individual user using score normalization based on rating difference between items. We have found many users have biased rating tendency and their rating data was affected. So we have normalized those rating data to get better prediction results. The results of experiments indicate that the proposed system has relatively improved performance compared to the previous recommender system in terms of prediction accuracy. Consequently, the proposed system is expected to enable improved movie recommendation for each individual by weighing rating tendency using score normalization.
 
