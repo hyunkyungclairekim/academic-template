@@ -33,7 +33,6 @@ slides: example
 ---
 
 ## Abstract
-<br />
 
 **Background**: There is some evidence that many diseases have different underlying mechanisms in men and women. This may demonstrate that there are some sex-specific mechanisms in gene regulatory networks. However, not many methods are developed to identify those differences in network structures, which makes it hard to understand sex-specific structures in diseases.
 
