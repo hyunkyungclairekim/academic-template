@@ -15,14 +15,11 @@ image:
   focal_point: Smart
   preview_only: true
 
-![](T2D_genetic_clustering_9clusters.png)
+
 
 links:
-# - icon: twitter
- # icon_pack: fab
- # name: Follow
-- name: doi
-  url: "https://diabetes.diabetesjournals.org/content/69/Supplement_1/1644-P"
+- name: Link
+  url: https://diabetes.diabetesjournals.org/content/69/Supplement_1/1644-P
 url_code: ""
 url_pdf: ""
 url_slides: ""
