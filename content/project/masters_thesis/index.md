@@ -2,9 +2,10 @@
 title: Sex Differences in Gene Regulatory Networks of Head & Neck Cancer
 summary: Identifying sex differences in head & neck cancer using a network-based approach
 tags:
-- Cancer
+- Head and neck cancer
 - RNA-seq
 - Gene Regulatory Network
+- Sex differences
 date: "2019-05-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
