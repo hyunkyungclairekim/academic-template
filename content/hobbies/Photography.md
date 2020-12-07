@@ -1,6 +1,6 @@
 +++
 # A Recent Blog Posts section created with the Pages widget.
-# This section displays recent blog posts from `content/hobbies/`.
+# This section displays recent blog posts from `content/hobbies/Photography/`.
 
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
