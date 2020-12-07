@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishments"
 subtitle = ""
 
 # Date format
@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Intermediate R"
   url = ""
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/7e61ad589c3bf70079746dd2bb70fef15072a4d4"
-  date_start = ""
+ # date_start = ""
   date_end = "2020-11-27"
   description = ""
 
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   title = "Introduction to Python"
   url = ""
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/7962423c5b2e2e01266da5ef6927d218f0ae547f"
-  date_start = ""
+ # date_start = ""
   date_end = "2017-12-25"
   description = ""
   
@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   title = "Introduction to R"
   url = ""
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/e5a84e41ffc91a6cb7fdf47f8b62f322890886ee"
-  date_start = ""
+#  date_start = ""
   date_end = "2017-08-09"
   description = ""
 
