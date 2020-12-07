@@ -1,5 +1,5 @@
 +++
-# A Recent Publications section created with the Pages widget.
+# A Hobbies section created with the Pages widget.
 # This section displays recent blog posts from `content/hobbies/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
