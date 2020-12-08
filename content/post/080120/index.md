@@ -1,6 +1,6 @@
 
 ---
-title: Summer Beach
+title: Hot Summer
 tags:
 - Summer
 - Beach
