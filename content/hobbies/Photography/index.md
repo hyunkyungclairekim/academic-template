@@ -1,5 +1,5 @@
 ---
-title: Photography
+title: Walk into the Fall
 
 
 # View.
@@ -10,7 +10,7 @@ view: 3
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Walk into the Fall"
+  caption: ""
   image: "IMG_1268.jpg"
 ---
 
