@@ -1,6 +1,6 @@
 
 ---
-title: Hot Summer
+title: Summer Picnic
 tags:
 - Summer
 - Beach
