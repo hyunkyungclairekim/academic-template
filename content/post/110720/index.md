@@ -1,6 +1,6 @@
 
 ---
-title: Walk into the Fall
+title: Walking into the Fall
 tags:
 - Fall foliage
 - Autumn colors
