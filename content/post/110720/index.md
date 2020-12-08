@@ -24,6 +24,7 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-{{< figure src="IMG_1268.jpg" title="The Riverway" >}}
+{{< figure src="IMG_1271.jpg" title="" >}}
 
+{{< figure src="IMG_1272.jpg" title="" >}}
 
