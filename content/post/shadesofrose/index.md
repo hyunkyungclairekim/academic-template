@@ -27,4 +27,3 @@ slides: example
 
 {{< figure src="IMG_6534.jpg" title="" >}}
 
-{{< figure src="IMG_8182.jpg" title="" >}}
