@@ -12,7 +12,7 @@ date: "2020-06-1T00:00:00Z"
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  caption: The Riverway
+  caption: 
   focal_point: Smart
   preview_only: false
 
