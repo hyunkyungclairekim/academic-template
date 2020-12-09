@@ -1,6 +1,6 @@
 
 ---
-title: Summer Picnic
+title: Before the Summer Ends..
 tags:
 - Summer
 - Beach
