@@ -4,7 +4,7 @@ title: Shades of Rose
 tags:
 - Rose
 - Flowers
-date: "2020-05-16"
+date: "2020-05-16T00:00:00Z"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
