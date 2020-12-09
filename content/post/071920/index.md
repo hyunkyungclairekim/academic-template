@@ -5,7 +5,7 @@ tags:
 - Summer
 - Rockport
 - Scenery
-date: "2020-07-19"
+date: "2020-07-19T00:00:00Z"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
