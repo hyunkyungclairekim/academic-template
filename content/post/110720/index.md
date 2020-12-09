@@ -5,7 +5,7 @@ tags:
 - Fall foliage
 - Autumn colors
 - Scenery
-date: "2020-11-07"
+date: "2020-11-07T00:00:00Z"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
