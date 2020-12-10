@@ -37,6 +37,16 @@ date_format = "Jan 2006"
   date_start = "2020-11-27"
   date_end = "2020-11-27"
   description = ""
+  
+[[item]]
+  organization = "Codecademy"
+  organization_url = "https://www.codecademy.com"
+  title = "Learn the Command Line"
+  url = ""
+  certificate_url = "https://www.codecademy.com/profiles/rubyAce57670/certificates/c87ba0541f8be78bc2f4ba1128233f6f"
+  date_start = "2018-03-14"
+  date_end = "2018-03-14"
+  description = ""
 
 [[item]]
   organization = "DataCamp"
