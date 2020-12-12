@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
+  title = "Introduction to SQL"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/b3777b84176ff86fc4d13b8b40c155912c5386a3"
+  date_start = "2020-12-12"
+  date_end = "2020-12-12"
+  description = ""
+
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
   title = "Introduction to the Tidyverse"
   url = ""
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/9ca6db963680cb637686f9051a17fd2723ef3e41"
