@@ -71,5 +71,5 @@ user_groups:
 - Visitors
 ---
 
-Hyunkyung Kim is a Bioinformatics Specialist at Diabetes Research Center, Massachusetts General Hospital. Her research interests focus on understanding genetic mechanisms of complex diseases using computational approaches. 
+Hyunkyung Kim is a Bioinformatics Specialist at the Diabetes Research Center, Massachusetts General Hospital. Her research interests focus on understanding genetic mechanisms of complex diseases using computational approaches. 
 
