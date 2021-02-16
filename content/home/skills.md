@@ -16,9 +16,9 @@ subtitle = ""
 
 [[feature]]
   icon = "desktop"
-  icon_pack = "Programming Skills"
-  name = "R, Perl, Python, SQL, JAVA, C++, SAS, Stata and cluster computing"
-  description = "90%"
+  icon_pack = "fas"
+  name = "Programming Skills"
+  description = "R, Perl, Python, SQL, JAVA, C++, SAS, Stata and cluster computing"
   
 [[feature]]
   icon = "chart-bar"
