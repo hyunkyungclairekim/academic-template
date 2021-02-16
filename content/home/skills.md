@@ -30,7 +30,7 @@ subtitle = ""
   icon = "tasks"
   icon_pack = "fas"
   name = "Soft Skills"
-  description = "Effective communicator, keen learner, well organized and results-oriented"
+  description = "Effective Communicator, Keen Learner, Well Organized and Results-oriented"
 
 # Uncomment to use emoji icons.
 # [[feature]]
