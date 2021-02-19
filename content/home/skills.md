@@ -26,11 +26,11 @@ subtitle = ""
   name = "Data Analysis"
   description = "Genomic Data Analysis, Clinical Data Analysis and Causal Inference"  
   
-[[feature]]
-  icon = "tasks"
-  icon_pack = "fas"
-  name = "Soft Skills"
-  description = "Effective Communicator, Keen Learner, Well Organized and Results-oriented"
+# [[feature]]
+ # icon = "tasks"
+ # icon_pack = "fas"
+ # name = "Soft Skills"
+ # description = "Effective Communicator, Keen Learner, Well Organized and Results-oriented"
 
 # Uncomment to use emoji icons.
 # [[feature]]
