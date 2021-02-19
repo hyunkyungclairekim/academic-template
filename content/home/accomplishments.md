@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://coursera.org/share/1de59ab298e332372ce17966b728dc8e"
   date_start = "2020-12-29"
-  date_end = "2020-12-29"
+ # date_end = "2020-12-29"
   description = ""
   
 [[item]]
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/b3777b84176ff86fc4d13b8b40c155912c5386a3"
   date_start = "2020-12-12"
-  date_end = "2020-12-12"
+ # date_end = "2020-12-12"
   description = ""
 
 [[item]]
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/9ca6db963680cb637686f9051a17fd2723ef3e41"
   date_start = "2020-12-08"
-  date_end = "2020-12-08"
+#  date_end = "2020-12-08"
   description = ""
 
 [[item]]
@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/7e61ad589c3bf70079746dd2bb70fef15072a4d4"
   date_start = "2020-11-27"
-  date_end = "2020-11-27"
+ # date_end = "2020-11-27"
   description = ""
   
 [[item]]
@@ -65,7 +65,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://www.codecademy.com/profiles/rubyAce57670/certificates/c87ba0541f8be78bc2f4ba1128233f6f"
   date_start = "2018-03-14"
-  date_end = "2018-03-14"
+ # date_end = "2018-03-14"
   description = ""
 
 [[item]]
@@ -75,7 +75,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/7962423c5b2e2e01266da5ef6927d218f0ae547f"
   date_start = "2017-12-25"
-  date_end = "2017-12-25"
+ # date_end = "2017-12-25"
   description = ""
   
 [[item]]
@@ -85,7 +85,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/e5a84e41ffc91a6cb7fdf47f8b62f322890886ee"
   date_start = "2017-08-09"
-  date_end = "2017-08-09"
+ # date_end = "2017-08-09"
   description = ""
 
 +++
