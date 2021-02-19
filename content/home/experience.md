@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Bioinformatics Specialist"
-  company = "Massachusetts General Hospital"
+  company = "Diabetes Research Center, Massachusetts General Hospital"
   company_url = "https://www.massgeneral.org/"
   location = "Boston, MA"
   date_start = "2019-07-01"
