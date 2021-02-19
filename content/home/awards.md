@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Awards.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Harvard Chan Central Grant"
   url = ""
 #  certificate_url = "https://coursera.org/share/1de59ab298e332372ce17966b728dc8e"
-  date_start = "2020-12-29"
-  date_end = "2020-12-29"
+  date_start = "2017"
+ # date_end = "2020-12-29"
   description = ""
   
 +++
