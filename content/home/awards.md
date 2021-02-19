@@ -2,7 +2,7 @@
 # Awards widget.
 widget = "awards"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 110  # Order that this section will appear.
 
 title = "Awards"
@@ -23,8 +23,8 @@ date_format = "2006"
   organization_url = "https://www.hsph.harvard.edu/"
   title = "Harvard Chan Central Grant"
   url = ""
-#  certificate_url = "https://coursera.org/share/1de59ab298e332372ce17966b728dc8e"
-  date_start = "2017"
+# certificate_url = "https://coursera.org/share/1de59ab298e332372ce17966b728dc8e"
+  date_start = "2017-08-21"
  # date_end = "2020-12-29"
   description = ""
   
