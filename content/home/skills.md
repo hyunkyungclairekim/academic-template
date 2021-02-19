@@ -24,7 +24,7 @@ subtitle = ""
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Data Analysis"
-  description = "Genomic Data Analysis, Clinical Data Analysis, Clustering, Regression and Causal Inference"  
+  description = "Genomic Data Analysis, Clinical Data Analysis, Statistical Modeling and Machine Learning"  
   
  [[feature]]
  icon = "tasks"
