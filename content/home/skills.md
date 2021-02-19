@@ -18,19 +18,19 @@ subtitle = ""
   icon = "desktop"
   icon_pack = "fas"
   name = "Programming"
-  description = "R, Perl, Python, SQL, JAVA, C++, SAS, Stata and Cluster Computing"
+  description = "R, Perl, Python, SQL, Java, C++, SAS, Stata and Cluster Computing"
   
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Data Analysis"
-  description = "Genomic Data Analysis, Clinical Data Analysis and Causal Inference"  
+  description = "Genomic Data Analysis, Clinical Data Analysis, Clustering, Regression and Causal Inference"  
   
  [[feature]]
  icon = "tasks"
  icon_pack = "fas"
- name = "Soft Skills"
- description = "Effective Communicator, Keen Learner, Well Organized and Results-oriented"
+ name = "Tools"
+ description = "MS Office, Tableau, Weka, JMP"
 
 # Uncomment to use emoji icons.
 # [[feature]]
