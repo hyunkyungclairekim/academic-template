@@ -30,7 +30,7 @@ education:
     institution: Harvard T.H. Chan School of Public Health
     year: 2019
   - course: BSc in Computer Science
-    institution: Yonsei University
+    institution: Yonsei University, Korea
     year: 2016
 
 # Social/Academic Networking
