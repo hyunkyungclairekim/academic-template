@@ -30,7 +30,7 @@ subtitle = ""
  icon = "tasks"
  icon_pack = "fas"
  name = "Tools"
- description = "MS Office, Tableau, Weka, JMP"
+ description = "MS Office, Tableau, Weka and JMP"
 
 # Uncomment to use emoji icons.
 # [[feature]]
