@@ -8,7 +8,7 @@ tags:
 date: "2020-06-1T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://hugeamp.org/method.html?trait=combined&dataset=loci_clustering"
+external_link: ""
 
 image:
   caption: Beta-cell1 cluster identified by clustering analysis
@@ -17,8 +17,10 @@ image:
 
 
 links:
-- name: Link
+- name: abstract
   url: https://diabetes.diabetesjournals.org/content/69/Supplement_1/1644-P
+- name: website
+  url: https://hugeamp.org/method.html?trait=combined&dataset=loci_clustering
 url_code: ""
 url_pdf: ""
 url_slides: ""
