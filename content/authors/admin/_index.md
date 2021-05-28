@@ -54,7 +54,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/CV_Professional_HK_Feb_2021.pdf
+  link: files/CV_HK_May_2021.pdf
 # - icon: github
  # icon_pack: fab
  # link: https://github.com/hyunkyungclairekim
