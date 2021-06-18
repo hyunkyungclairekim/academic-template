@@ -19,9 +19,9 @@ image:
 links:
 - name: abstract
   url: https://diabetes.diabetesjournals.org/content/69/Supplement_1/1644-P
-- name: website
-  url: https://hugeamp.org/method.html?trait=combined&dataset=loci_clustering
 - name: interactive results
+  url: https://hugeamp.org/method.html?trait=combined&dataset=loci_clustering
+- name: video tutorial
   url: https://www.youtube.com/watch?v=0ZmakrHgOeQ
 url_code: ""
 url_pdf: ""
